@@ -1,0 +1,17 @@
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApi\bin\Debug\netcoreapp2.1\WebApi.deps.json
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.json
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.dev.json
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApi\bin\Debug\netcoreapp2.1\WebApi.dll
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApi\bin\Debug\netcoreapp2.1\WebApi.pdb
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApi\bin\Debug\netcoreapp2.1\BusinessLogic.dll
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApi\bin\Debug\netcoreapp2.1\BusinessLogic.pdb
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApi\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfo.cs
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CopyComplete
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApi\obj\Debug\netcoreapp2.1\WebApi.dll
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApi\obj\Debug\netcoreapp2.1\WebApi.pdb

@@ -1,0 +1,11 @@
+c:\users\zlatko.lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\bin\Debug\netcoreapp1.1\WebServices.deps.json
+c:\users\zlatko.lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\bin\Debug\netcoreapp1.1\WebServices.runtimeconfig.json
+c:\users\zlatko.lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\bin\Debug\netcoreapp1.1\WebServices.runtimeconfig.dev.json
+c:\users\zlatko.lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\bin\Debug\netcoreapp1.1\WebServices.dll
+c:\users\zlatko.lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\bin\Debug\netcoreapp1.1\WebServices.pdb
+c:\users\zlatko.lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\bin\Debug\netcoreapp1.1\BusinessLogic.dll
+c:\users\zlatko.lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\bin\Debug\netcoreapp1.1\BusinessLogic.pdb
+c:\users\zlatko.lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\obj\Debug\netcoreapp1.1\WebServices.csprojResolveAssemblyReference.cache
+c:\users\zlatko.lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\obj\Debug\netcoreapp1.1\WebServices.AssemblyInfo.cs
+c:\users\zlatko.lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\obj\Debug\netcoreapp1.1\WebServices.dll
+c:\users\zlatko.lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\obj\Debug\netcoreapp1.1\WebServices.pdb

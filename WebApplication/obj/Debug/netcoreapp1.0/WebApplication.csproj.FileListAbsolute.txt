@@ -1,0 +1,11 @@
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApplication\bin\Debug\netcoreapp1.0\WebApplication.deps.json
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApplication\bin\Debug\netcoreapp1.0\WebApplication.runtimeconfig.json
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApplication\bin\Debug\netcoreapp1.0\WebApplication.runtimeconfig.dev.json
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApplication\bin\Debug\netcoreapp1.0\WebApplication.dll
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApplication\obj\Debug\netcoreapp1.0\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApplication\obj\Debug\netcoreapp1.0\WebApplication.AssemblyInfoInputs.cache
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApplication\obj\Debug\netcoreapp1.0\WebApplication.AssemblyInfo.cs
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApplication\bin\Debug\netcoreapp1.0\WebApplication.pdb
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApplication\obj\Debug\netcoreapp1.0\WebApplication.dll
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApplication\obj\Debug\netcoreapp1.0\WebApplication.pdb
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApplication\obj\Debug\netcoreapp1.0\WebApplication.csprojAssemblyReference.cache

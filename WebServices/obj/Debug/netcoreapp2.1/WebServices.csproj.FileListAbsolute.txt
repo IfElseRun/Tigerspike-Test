@@ -1,0 +1,17 @@
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\bin\Debug\netcoreapp2.1\BusinessLogic.dll
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\obj\Debug\netcoreapp2.1\WebServices.csprojAssemblyReference.cache
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\obj\Debug\netcoreapp2.1\WebServices.csproj.CoreCompileInputs.cache
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\obj\Debug\netcoreapp2.1\WebServices.AssemblyInfoInputs.cache
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\obj\Debug\netcoreapp2.1\WebServices.AssemblyInfo.cs
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\bin\Debug\netcoreapp2.1\WebServices.deps.json
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\bin\Debug\netcoreapp2.1\WebServices.runtimeconfig.json
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\bin\Debug\netcoreapp2.1\WebServices.runtimeconfig.dev.json
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\bin\Debug\netcoreapp2.1\WebServices.dll
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\bin\Debug\netcoreapp2.1\WebServices.pdb
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\bin\Debug\netcoreapp2.1\BusinessLogic.pdb
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\obj\Debug\netcoreapp2.1\WebServices.csproj.CopyComplete
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\obj\Debug\netcoreapp2.1\WebServices.dll
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\obj\Debug\netcoreapp2.1\WebServices.pdb
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\obj\Debug\netcoreapp2.1\WebServices.RazorAssemblyInfo.cache
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\obj\Debug\netcoreapp2.1\WebServices.RazorAssemblyInfo.cs
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebServices\obj\Debug\netcoreapp2.1\WebServices.RazorTargetAssemblyInfo.cache

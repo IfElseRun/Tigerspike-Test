@@ -1,0 +1,40 @@
+agm-map {
+  height: 90vh; }
+
+home {
+  position: relative; }
+  home > sidebar-home {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    height: 50vh;
+    width: 300px;
+    z-index: 2;
+    background: #fff;
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding: 20px;
+    box-shadow: 2px 2px 3px #888888; }
+    @media screen and (max-width: 768px) {
+      home > sidebar-home {
+        width: 93%;
+        display: none;
+        right: 0;
+        left: 0;
+        top: 0;
+        box-shadow: none; }
+      home > sidebar-home.visible {
+        display: inline-table; } }
+
+tigerspike-test {
+  width: 100%; }
+  tigerspike-test img.loader {
+    margin: 0 auto;
+    max-width: 60%;
+    height: auto;
+    position: absolute;
+    left: 0;
+    right: 0; }
+
+.modal {
+  background: rgba(0, 0, 0, 0.6); }

@@ -1,0 +1,9 @@
+c:\users\zlatko.lakisic\documents\visual studio 2017\Projects\TigerSpike\BusinessLogic\bin\Debug\netcoreapp1.1\BusinessLogic.deps.json
+c:\users\zlatko.lakisic\documents\visual studio 2017\Projects\TigerSpike\BusinessLogic\bin\Debug\netcoreapp1.1\BusinessLogic.dll
+c:\users\zlatko.lakisic\documents\visual studio 2017\Projects\TigerSpike\BusinessLogic\bin\Debug\netcoreapp1.1\BusinessLogic.pdb
+c:\users\zlatko.lakisic\documents\visual studio 2017\Projects\TigerSpike\BusinessLogic\obj\Debug\netcoreapp1.1\BusinessLogic.AssemblyInfo.cs
+c:\users\zlatko.lakisic\documents\visual studio 2017\Projects\TigerSpike\BusinessLogic\obj\Debug\netcoreapp1.1\BusinessLogic.dll
+c:\users\zlatko.lakisic\documents\visual studio 2017\Projects\TigerSpike\BusinessLogic\obj\Debug\netcoreapp1.1\BusinessLogic.pdb
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\BusinessLogic\obj\Debug\netcoreapp1.1\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\BusinessLogic\obj\Debug\netcoreapp1.1\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\BusinessLogic\obj\Debug\netcoreapp1.1\BusinessLogic.AssemblyInfoInputs.cache

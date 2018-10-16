@@ -1,0 +1,9 @@
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApplication\bin\Debug\netcoreapp1.1\WebApplication.deps.json
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApplication\bin\Debug\netcoreapp1.1\WebApplication.runtimeconfig.json
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApplication\bin\Debug\netcoreapp1.1\WebApplication.runtimeconfig.dev.json
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApplication\bin\Debug\netcoreapp1.1\WebApplication.dll
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApplication\bin\Debug\netcoreapp1.1\WebApplication.pdb
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApplication\obj\Debug\netcoreapp1.1\WebApplication.AssemblyInfo.cs
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApplication\obj\Debug\netcoreapp1.1\WebApplication.dll
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApplication\obj\Debug\netcoreapp1.1\WebApplication.pdb
+C:\Users\Zlatko.Lakisic\documents\visual studio 2017\Projects\TigerSpike\WebApplication\obj\Debug\netcoreapp1.1\WebApplication.csprojResolveAssemblyReference.cache
